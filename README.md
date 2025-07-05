@@ -1,4 +1,4 @@
-# 🎨 Autistic Capsule Time - Coloring App for Autism
+# 🎨 Capsule Zone - Coloring App for Autism
 
 A beautiful, free, and open-source coloring app specifically designed for autistic children and their families. This app provides a calm, educational, and joyful coloring experience with numbered guides, nature sounds, and reward systems.
 
@@ -53,7 +53,7 @@ A beautiful, free, and open-source coloring app specifically designed for autist
 1. **Clone or download this repository**
 ```bash
 git clone [your-repo-url]
-cd autistic-capsule-time
+cd capsule-zone
 ```
 
 2. **Install dependencies**
@@ -193,7 +193,7 @@ The license includes a password-protected system that allows the original creato
 ## 📞 Support & Contact
 
 For support, questions, or commercial licensing:
-- Email: [Your contact email]
+- Email: [elostazahx@gmail.com]
 - Issues: Use GitHub Issues for bug reports
 - Discussions: Use GitHub Discussions for questions
 
